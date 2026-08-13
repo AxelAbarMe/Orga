@@ -59,3 +59,17 @@ Integrar diferentes tareas y personas para que trabajen hacia un objetivo común
 
 * Especialización
 * Formalización
+* Centralización
+* Configuración / Jerarquía
+* Coordinación
+
+## Herramientas
+
+* Organigrama
+* Manual de puestos
+* Flujograma
+* Matriz RACI
+* Encuestas
+* Indicadores KPI
+
+
