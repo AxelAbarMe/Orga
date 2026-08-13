@@ -1,7 +1,4 @@
-# Clase #2
-
-
-## Planificación
+# Planificación
 
 
 Organizar procesos que definan metas claras y visualizar cambios en el futuro, con un rumbo estratégico. Alineados a los objetivos de la persona o la organización.
