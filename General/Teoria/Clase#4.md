@@ -72,4 +72,5 @@ Integrar diferentes tareas y personas para que trabajen hacia un objetivo común
 * Encuestas
 * Indicadores KPI
 
+Tipos de estructuras y pública/privada. Etc después
 
