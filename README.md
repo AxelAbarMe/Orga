@@ -10,6 +10,7 @@ Repositorio de apuntes teóricos del curso de Organización y su Entorno.
 - [Resumen 1.2 { Planificación }](https://github.com/AxelAbarMe/Orga/blob/main/General/Teoria/Clase%232.md) — Conceptos de Planificación.
 - [Resumen 1.3 { Planeación estratégica }](https://github.com/AxelAbarMe/Orga/blob/main/General/Teoria/Clase%233.md) — Planeación estratégica en la organización.
 - [Resumen 1.4 { Organización del entorno empresarial }](https://github.com/AxelAbarMe/Orga/blob/main/General/Teoria/Clase%234.md) — Organización y sus formas en el entorno empresarial.
+- [Resumen 1.5 {  }](https://github.com/AxelAbarMe/Orga/blob/main/General/Teoria/Clase%235.md) — Pendiente
 
 ## ✏️ Prácticas
 > Ejercicios para reforzar los temas de teoría.
