@@ -219,6 +219,3 @@ Conjunto de métodos y procesos utilizados para resolver disputas sin recurrir a
 
 ---
 
-## Bibliografía
-
-Robbins, S. P., Decenzo, D. A., & Coulter, M. (2013). *Fundamentos de Administración*. México: Pearson.
