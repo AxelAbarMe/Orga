@@ -1,4 +1,4 @@
-# Control — Tema 6 (EIF404: Organización y su Entorno)
+# Control
 
 ## 1. Concepto de Control
 
