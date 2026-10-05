@@ -14,7 +14,8 @@ Repositorio de apuntes teóricos del curso de Organización y su Entorno.
 - [Resumen 1.6 { Control }](https://github.com/AxelAbarMe/Orga/blob/main/General/Teoria/Clase%236.md) — Control
 - [Resumen 1.7 { RRHH }](https://github.com/AxelAbarMe/Orga/blob/main/General/Teoria/Clase%237.md) — Administración en los Recursos Humanos
 - [Resumen 1.8 { Rol TI }](https://github.com/AxelAbarMe/Orga/blob/main/General/Teoria/Clase%238.md) — Rol TI y ética
-- [Resumen 1.9 {  }](https://github.com/AxelAbarMe/Orga/blob/main/General/Teoria/Clase%239.md) — 
+- [Resumen 1.9 { LAS TECNOLOGÍAS DE INFORMACIÓN Y SU IMPACTO }](https://github.com/AxelAbarMe/Orga/blob/main/General/Teoria/Clase%239.md) — TI y su Impacto
+- [Resumen 1.10 {  }](https://github.com/AxelAbarMe/Orga/blob/main/General/Teoria/Clase%23%6010.md) — 
 
 ## ✏️ Prácticas
 > Ejercicios para reforzar los temas de teoría.
