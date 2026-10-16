@@ -1,4 +1,4 @@
-Estoy revisando las diapositivas que son solo imágenes para incluir su contenido en el resumen; sigo con las demás.# LAS TECNOLOGÍAS DE INFORMACIÓN Y SU IMPACTO (III y IV)
+# Las tecnologías de información y su impacto (III y IV)
 
 ## 1. Sistemas de información, organizaciones y estrategia
 
