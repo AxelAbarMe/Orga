@@ -24,7 +24,5 @@ Repositorio de apuntes teóricos del curso de Organización y su Entorno.
 
 - [Practica 1.1](https://github.com/AxelAbarMe/Orga/blob/main/General/Practicas/Practica%201.md)
 - [Practica 1.2](https://github.com/AxelAbarMe/Orga/blob/main/General/Practicas/Practica%202.md)
-- [Practica 1.3](https://github.com/AxelAbarMe/Orga/blob/main/General/Practicas/Practica%203.md)
-- [Practica 1.4](https://github.com/AxelAbarMe/Orga/blob/main/General/Practicas/Practica%204.md)
 
 ---
